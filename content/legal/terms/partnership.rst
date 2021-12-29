@@ -7,7 +7,7 @@ Odoo Partnership Agreement
 .. v6a: typo in section 4.4
 .. v7: introduce "Learning Partners" and a few related changes
 .. v8: simplified parts, clarified others, added trademark use restrictions, updated benefits
-.. v8a: minor clarifications and simplifications
+.. v8a: minor clarifications and simplifications    
 .. v9: added maintenance commission + obligations
 .. v9a: minor clarification to allow OE commission even without maintenance
 .. v9b: 2021-01-12 - update requirements for Partnership levels
@@ -18,8 +18,8 @@ Odoo Partnership Agreement
 |  Odoo S.A., having its registered office at Chaussée de Namur, 40, 1367 Grand-Rosière,
 |  Belgium, and its affiliates (collectively referred to as “ODOO”)
 | AND:
-|  _____________________________________________, a company having its registered office at
-|  _____________________________________________________________________________________.
+|  _INFINITE DIGITAL TRANSFORMATION (PRIVATE) LIMITED______________________________, a company having its registered office at
+|  _30 L GULBERG III NEAR KALMA CHOCK LAHORE, PAKISTAN________________________________.
 |  (hereinafter referred to as “PARTNER”)
 
 ODOO and PARTNER are individually referred to as a "Party" and collectively referred to as
@@ -353,7 +353,11 @@ found shall be finally settled by the Courts of Belgium in Nivelles.
     .. rubric:: Signatures
 
     +---------------------------------------+------------------------------------------+
-    | For ODOO,                             | For PARTNER                              |
+    | For ODOO,                             | For PARTNER   
+                                              SYED HUSSNAIN ABBAS SHAH
+                                              CEO, INFINITE DIGITAL TRANSFORMAION 
+                                              
+    |
     +---------------------------------------+------------------------------------------+
 
 
